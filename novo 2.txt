@@ -1,0 +1,4 @@
+maranduba-blog/
+├── index.html
+└── images/
+    └── imagem-whatsapp.jpg
